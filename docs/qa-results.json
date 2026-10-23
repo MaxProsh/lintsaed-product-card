@@ -1,0 +1,60 @@
+{
+  "checkedAt": "2026-10-23T08:38:50.141Z",
+  "checks": [
+    {
+      "width": 1440,
+      "viewport": 1440,
+      "document": 1440,
+      "broken": 0
+    },
+    {
+      "width": 1024,
+      "viewport": 1024,
+      "document": 1024,
+      "broken": 0
+    },
+    {
+      "width": 768,
+      "viewport": 768,
+      "document": 768,
+      "broken": 0
+    },
+    {
+      "width": 680,
+      "viewport": 680,
+      "document": 680,
+      "broken": 0
+    },
+    {
+      "width": 390,
+      "viewport": 390,
+      "document": 390,
+      "broken": 0
+    },
+    {
+      "width": 320,
+      "viewport": 320,
+      "document": 320,
+      "broken": 0
+    }
+  ],
+  "gallery": true,
+  "photoDialogEscape": true,
+  "drawing": true,
+  "requiredCity": true,
+  "invalidQuantity": true,
+  "emailBody": true,
+  "clipboard": true,
+  "anchorTop": 204.046875,
+  "keyboardSkip": true,
+  "zoom200": true,
+  "reducedMotion": true,
+  "consoleErrors": [],
+  "failedResources": [],
+  "notTested": [
+    "Screen reader",
+    "Safari / Firefox",
+    "Real email delivery",
+    "Seller response"
+  ]
+}
